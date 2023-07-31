@@ -289,7 +289,7 @@ Failures:
      [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `profile_image' for #<User id: nil, email: "bobby_kihn@macejkovic.example", name: "g6zh02qrc3", introduction: "6i6ycgpuwj4l58k5dobo", created_at: nil, updated_at: nil>[0m
+     [31m  undefined method `profile_image' for #<User id: nil, email: "sheilah.stroman@dach.test", name: "bg0xcm0ymk", introduction: "799pumw847h42bvjpa5n", created_at: nil, updated_at: nil>[0m
      [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -310,7 +310,7 @@ Failures:
      [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `profile_image' for #<User id: nil, email: "hulda_dickinson@rath-upton.test", name: "hdd6qjqanh", introduction: "6skdrwmluow19wxsykg2", created_at: nil, updated_at: nil>[0m
+     [31m  undefined method `profile_image' for #<User id: nil, email: "charmain@wunsch.test", name: "mq29vsj1fj", introduction: "bdw9gfeivc4hbi07f30x", created_at: nil, updated_at: nil>[0m
      [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -331,7 +331,7 @@ Failures:
      [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `profile_image' for #<User id: nil, email: "nichelle.hilpert@schoen.test", name: "ev6vwkoi1c", introduction: "si9o6o4s2aqg9enhvsg1", created_at: nil, updated_at: nil>[0m
+     [31m  undefined method `profile_image' for #<User id: nil, email: "teodora@mcdermott-bergstrom.test", name: "9herolvsg3", introduction: "lndauwdll2vcnu98f9l7", created_at: nil, updated_at: nil>[0m
      [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -352,7 +352,7 @@ Failures:
      [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `profile_image' for #<User id: nil, email: "joey.rodriguez@altenwerth.test", name: "s56cymxn75", introduction: "ksu9iectzedo3ksxg04s", created_at: nil, updated_at: nil>[0m
+     [31m  undefined method `profile_image' for #<User id: nil, email: "reyna_schuppe@wiegand.test", name: "d6h388p1b1", introduction: "xnpp1dwxlcrgcxrln6l7", created_at: nil, updated_at: nil>[0m
      [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -373,7 +373,7 @@ Failures:
      [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `profile_image' for #<User id: nil, email: "valentin@trantow.example", name: "gtfh96lofw", introduction: "qzogdco94stbk8kpx6bv", created_at: nil, updated_at: nil>[0m
+     [31m  undefined method `profile_image' for #<User id: nil, email: "clara@lindgren.example", name: "jb13ahc9iz", introduction: "j9o6qmgiamao2w3lznny", created_at: nil, updated_at: nil>[0m
      [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -393,7 +393,7 @@ Failures:
      [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `profile_image' for #<User id: nil, email: "len@predovic-doyle.example", name: "qc3k2aw5qf", introduction: "5lxlb1t9039l8xbuth2f", created_at: nil, updated_at: nil>[0m
+     [31m  undefined method `profile_image' for #<User id: nil, email: "gussie.bergstrom@dibbert-farrell.test", name: "vp8va28eql", introduction: "if9m4coo5luv2ohkrxo0", created_at: nil, updated_at: nil>[0m
      [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -413,7 +413,7 @@ Failures:
      [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `profile_image' for #<User id: nil, email: "jacquline@paucek.test", name: "vf37hxnizf", introduction: "pr7ht2qyu4vm6zjusmzg", created_at: nil, updated_at: nil>[0m
+     [31m  undefined method `profile_image' for #<User id: nil, email: "elias_bartell@walter.test", name: "87tiyfsyzx", introduction: "0pxxxb71em5ds7n3xfa0", created_at: nil, updated_at: nil>[0m
      [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -433,7 +433,7 @@ Failures:
      [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `profile_image' for #<User id: nil, email: "sheba@hammes-krajcik.test", name: "uft6s2frdp", introduction: "vhxjn8ekdd5vnuuxo3j7", created_at: nil, updated_at: nil>[0m
+     [31m  undefined method `profile_image' for #<User id: nil, email: "jacquiline@reynolds.example", name: "2n6xshpytx", introduction: "okivuqaegoekpgtzkgv0", created_at: nil, updated_at: nil>[0m
      [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -453,7 +453,7 @@ Failures:
      [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `profile_image' for #<User id: nil, email: "thao_smith@goyette.example", name: "x62y0onqdh", introduction: "ihdfztvwhzgbj8rq980m", created_at: nil, updated_at: nil>[0m
+     [31m  undefined method `profile_image' for #<User id: nil, email: "marianne@waters.example", name: "g4z11ahub0", introduction: "g7s14b9g74xkl2md2rcq", created_at: nil, updated_at: nil>[0m
      [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -473,7 +473,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "houston_dubuque@abernathy-stiedemann.example", name: "fxlowtpajd", introduction: "7c2x0ijabnwa5jizziuv", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "ronald@blick-moen.test", name: "0oh66pv9ji", introduction: "ite23op2laakifdf3ruj", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -493,7 +493,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "pei.marks@gulgowski.example", name: "8iaqisy2im", introduction: "0nmycdmt7c0mzz4qkxri", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "milan.luettgen@hermiston-senger.test", name: "x5f0q2ehit", introduction: "4l1447ermjqzlp2yr5mz", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -513,7 +513,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "galen.feeney@romaguera.example", name: "oq1wqom0j2", introduction: "r4d4xcj0di81nciet5rn", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "sandee.mayer@gusikowski.test", name: "fiesvnxxk2", introduction: "4lr2mq90tjl69wk89ac8", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -8544,7 +8544,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "magan.reilly@towne.test", name: "yo6gfz5qhg", introduction: "52drb3qvw6ujnljptonx", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "malissa@hermiston-durgan.example", name: "w9o5gx2ue0", introduction: "miys9w6czjzqw2mz5xys", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -8564,7 +8564,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "mohammad.wyman@lubowitz.test", name: "cwbxd2zn2d", introduction: "awmiqesh1efe7d0e5jcp", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "dylan.quigley@simonis-lakin.test", name: "qxpr0ajnsj", introduction: "p5tayoh4qgmjag8j3idj", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -8584,7 +8584,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "syreeta.klein@ruecker.test", name: "m2s04d909x", introduction: "k450fjhtkke6h4d9lxew", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "octavio@beer.example", name: "2787bbj2mf", introduction: "1ukb1bwk2oe1oem2omhs", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -8604,7 +8604,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "kasandra@brekke.test", name: "ecjsadkduq", introduction: "0fwiqnbyo7c3tlju7rcc", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "willa_aufderhar@kuhic.example", name: "r3ulfhemfb", introduction: "ren6r2kj7evcshx9ychu", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -8624,7 +8624,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "emeline@herman.test", name: "hb1q11cgfz", introduction: "phk2ytbngrzuucgyum6l", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "carola@reinger.example", name: "sew5yohttl", introduction: "8etc1yqjm59ewg4v43ky", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -8644,7 +8644,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "roy@mann.example", name: "476vla2jqd", introduction: "yony90kfg4u3iwofci8i", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "bettina.bogisich@altenwerth.test", name: "i676jlj79e", introduction: "u9t90g2kkrg1ptr8yang", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -8664,7 +8664,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "clement_wuckert@hermann.example", name: "3jd2jsnoi4", introduction: "16tz8q6w1onn4dvyap6z", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "paris@stokes.example", name: "lltwgsgsmp", introduction: "n97zi9yn7sloql4jhj71", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -8684,7 +8684,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "mario.blanda@schneider-daugherty.test", name: "qg3bj6xazx", introduction: "px3jlem2yqj0rcram3gm", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "seema.bogisich@carroll-auer.example", name: "vybxnnrmtx", introduction: "1omig4lrkelfo8q0gmfk", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -8704,7 +8704,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "dick_anderson@durgan.example", name: "ptuqdp2so5", introduction: "3ulimjmht5vhxbor2k2a", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "dwain@hirthe-becker.example", name: "w7ybo2aa4m", introduction: "ssgl03yng4l65scu2fmq", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -8724,7 +8724,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "claudine@rogahn.example", name: "qv0msg9u00", introduction: "8jsgvifg2hrj26jdn8i0", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "leon.wintheiser@boyer.test", name: "665ivo6akh", introduction: "qzspgt0scfttmno4yxzn", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -8744,7 +8744,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "chau_batz@miller.example", name: "xz3fsbqp5c", introduction: "09txfk2maf9ihbl0co45", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "priscilla_crooks@paucek.example", name: "q8lp0xh172", introduction: "s082zeuwv3ns6x3i52a9", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -8764,7 +8764,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "grace_hayes@daugherty.test", name: "ynubefgy60", introduction: "zunzveu8poivx9cx00dz", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "kimbra.willms@mertz-willms.test", name: "so3047ekrv", introduction: "kzj7geplq4wgwpkt6i5f", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -8784,7 +8784,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "palma_hills@paucek.test", name: "4vaor9jm3v", introduction: "yzgm89f4ynsoxodxbwjk", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "brendon.jones@mraz.test", name: "9e0fj0kzdp", introduction: "330wsszqhpx6mym4580r", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -8804,7 +8804,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "bradly@zboncak.example", name: "wgi1vtrxlk", introduction: "98qt27lrh07nb05xoett", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "hugh.kuphal@waters.example", name: "egjuiht6df", introduction: "7d04ct79nkl7qpyv6j5h", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -8824,7 +8824,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "jerrie@little-schoen.test", name: "a79o55kt40", introduction: "omrkz436l1dt0xmx9frm", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "modesto@tromp.test", name: "nrxnt53s8j", introduction: "jrizf1t6wzzgxah05qy8", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -8844,7 +8844,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "zoila@mueller.example", name: "yz541vdmjh", introduction: "hrvfsvmjdosc1n07ksti", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "courtney@conroy.example", name: "0h24ml6yhl", introduction: "n426pnahml0muwr11bpk", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -8864,7 +8864,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "josette@runolfsson-denesik.example", name: "hadopdxbjl", introduction: "yrl4b6zk5upocepu5nut", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "taylor.hegmann@satterfield.test", name: "rb4w8zvf6c", introduction: "txga49asd4q7klsqsnxo", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -8884,7 +8884,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "kamala@hills.test", name: "0x81gl5equ", introduction: "p9vgg6oyh7hdcbw0lvpp", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "monte.schroeder@ward.test", name: "kmh1kweay6", introduction: "xalgy7t8ww46fvrgr9fj", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -8904,7 +8904,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "daniel.schamberger@abbott.test", name: "f7h8lbai9n", introduction: "mbbh3vohe3cinnhjrexo", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "paul@abbott.example", name: "n4fnj73xi1", introduction: "d7zbhcg170qg9nqp3u92", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -8924,7 +8924,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "javier@cremin-satterfield.test", name: "pwmwxeyila", introduction: "z05cjscefm71q1gg8v1j", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "lorita@bogisich.example", name: "tuc5nhed4t", introduction: "n1kc6yph6v5kmt51fb36", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -8944,7 +8944,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "hester@gulgowski.example", name: "l0xrqqk0jc", introduction: "jxxpt44qv6nev3d882pr", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "jeromy.hoppe@will.test", name: "83jqmqrkzy", introduction: "1xeelc7hn1qm42cvyfyv", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -8964,7 +8964,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "modesto@hagenes.test", name: "3ml0c82kr4", introduction: "ercigyf733ot47n14nji", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "jamal.rice@wintheiser-hills.test", name: "fdtwwiu5f1", introduction: "bxjgjp3tqiidimo0sl2n", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -8984,7 +8984,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "mirian_bogisich@wehner.example", name: "hk5i4ms4ye", introduction: "8vu585hmmgrmfpbop4st", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "lucius@blanda-brakus.test", name: "k05m45sltn", introduction: "4dqzop1f1d9yt0fyvylw", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9004,7 +9004,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "dave.gleichner@altenwerth-pfeffer.example", name: "6neksij5km", introduction: "ya26f3tlw5iou8ms1d8j", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "leon_kassulke@watsica.test", name: "tr83evtwc3", introduction: "gg4qghz9dep1crr2d6x5", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9024,7 +9024,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "adan_stroman@cronin.test", name: "xlxoobei59", introduction: "7ser9wtfk3l1qtgwuv07", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "olympia@ratke.example", name: "qv2pshcfng", introduction: "78iujvc1ytpuieaxjn31", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9044,7 +9044,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "genna@turcotte-jerde.example", name: "7sh2koobiz", introduction: "p2v9w7ef0848ay51292y", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "peg_lueilwitz@bahringer-casper.test", name: "yel06bn5ac", introduction: "xo2514jf38sq82x64h4u", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9064,7 +9064,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "bob.lueilwitz@bergstrom.test", name: "w5c84mfu48", introduction: "xjjvxtnarmogx607czl5", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "margot.little@murray.test", name: "rkwshfigwg", introduction: "ijhe47qxap9mddd9lwi4", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9084,7 +9084,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "reyes.howell@corkery-bruen.example", name: "tjtp5e270d", introduction: "85ogavpxh9bby777rfir", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "reginald_gerlach@bernhard-orn.test", name: "un0y2hv32m", introduction: "nqmfusznaz52f3iqwr84", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9104,7 +9104,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "jae@skiles.test", name: "q554yiquzs", introduction: "22mz31ewcoi66o8ifgzw", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "hiram.turcotte@vandervort.example", name: "zcx2tm874m", introduction: "99xk79sbo4ollgx1irex", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9124,7 +9124,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "elnora@damore-bayer.example", name: "i8x4vkkysp", introduction: "3hidhlud0f9h0ydsqcfr", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "mickey@daniel-dickinson.example", name: "go5uvy1260", introduction: "023vl8k9cjeb7tg3aiva", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9144,7 +9144,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "barrett@crona.test", name: "j7099f5dec", introduction: "8i8yhkqm6my1en99q7u1", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "blaine_skiles@wuckert.example", name: "2v7hyizmq3", introduction: "w1iilnf7o3n94ypujad7", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9164,7 +9164,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "fabiola.reichel@stokes-jaskolski.example", name: "pnwkbac638", introduction: "nxtzcrr790ptiqqe6431", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "ronnie@nolan.example", name: "a6bd7wze60", introduction: "b5p21aevmfoihuu3fqbp", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9184,7 +9184,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "broderick@stracke.example", name: "q5tdlesnac", introduction: "8lkcodvs34rxxcfuclby", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "loren@ward-langworth.example", name: "t487ubk0oh", introduction: "u3mj3rsj0s8ehb5rrxtv", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9204,7 +9204,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "erwin@wiza-wolf.example", name: "7ayvevmhs3", introduction: "wg6xax0ehchjyfmk5z45", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "maura_jakubowski@glover-jones.example", name: "u7thjf51kj", introduction: "verunijyh5xe8psh9fer", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9224,7 +9224,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "ismael@larkin.example", name: "r80vy2ytw6", introduction: "iahg2g6oghs14lt5vxwa", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "lyndon.friesen@kuhn.test", name: "zscu0md3ev", introduction: "9kc8nnbd7khd8udsmgqt", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9244,7 +9244,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "carlos@conn.example", name: "mn1y0i2l7j", introduction: "4yj1zcgvsw8j6j1blaz4", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "vesta_cassin@mraz.example", name: "c2qpokgy9x", introduction: "xfihcy2uwg0wstfvuq90", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9264,7 +9264,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "vern_haley@emard-gulgowski.test", name: "y8obypor0j", introduction: "7ratusv5nwq6uoy1lnp2", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "lenore.lueilwitz@kessler-crona.example", name: "9el0amil2m", introduction: "h3ucj3fbfvdx3h85r8ti", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9284,7 +9284,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "millicent_stracke@gleichner-conn.example", name: "bjkazhfhez", introduction: "5mos92eh3fv76ep6ozww", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "sid@hane-stanton.example", name: "e53e2goa7q", introduction: "hi4ljj172gabb8bqvdmd", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9304,7 +9304,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "tuan@hoppe-runte.example", name: "nmnut1wuro", introduction: "kzhe2wg6d264apdsc9l8", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "terence.olson@harvey-hills.example", name: "pmfu18xvwf", introduction: "iqidcd5jipgbcqp8qep2", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9324,7 +9324,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "thurman@satterfield.test", name: "ogaf6hnr4m", introduction: "582s7bi0xmva1eetht47", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "anthony@balistreri.example", name: "ypxjpo19oe", introduction: "mbpg2qv8yq2c9bdg2v19", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9344,7 +9344,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "weldon_hoppe@gutkowski.test", name: "d6ivid65u9", introduction: "rwh73wqw25csbvufue3f", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "augustine@trantow.test", name: "xpbww660su", introduction: "v6wjsziz0ggjjpnh4h1j", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9364,7 +9364,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "adelaide.klocko@runolfsdottir-barton.test", name: "c9mle2sdcu", introduction: "f1aiys7s3jfn3c415q8b", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "winfred.halvorson@morar-gerlach.test", name: "agzmtxoffq", introduction: "73vqyfx9l2lyj00n8hdo", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9384,7 +9384,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "dusti.goldner@legros.test", name: "vfk47e9kik", introduction: "8m4svsowe50q3da2shft", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "moses_aufderhar@carroll.test", name: "d4fm32i2od", introduction: "nct2qqse2ylw2lefe6i7", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9404,7 +9404,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "adeline.jacobson@goldner.test", name: "vehrzd8x7d", introduction: "g0x2ebio6qjabuhkku2d", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "demetrius_rutherford@olson.example", name: "uuwex8btjm", introduction: "dqgvwmq305itspz4wwvt", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9424,7 +9424,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "mitchel.botsford@witting-fahey.test", name: "03i71op91d", introduction: "84hzpjx72n9hm18r1m6n", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "christopher@buckridge.example", name: "t5pcbfs2ti", introduction: "sh3di2mlil2ce2tjr8h0", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9444,7 +9444,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "morris.pfeffer@franecki.test", name: "rkoqhweo7u", introduction: "l0h2qvv22hsjyp37g1js", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "tyron@purdy-murphy.test", name: "ws3mrhijkt", introduction: "h7tiha20jz9n0e5lpjnh", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9464,7 +9464,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "bailey@williamson-lindgren.example", name: "or0fxsbb65", introduction: "9ugve3gh7u2g64tcreg4", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "dawn_davis@bogisich-conroy.test", name: "p6treqg6tc", introduction: "d2unloekgngs41k67b3s", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9484,7 +9484,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "carmela@nader.example", name: "g5orpogegs", introduction: "rdga08qvxvkve42zwvva", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "edward_stokes@hartmann.example", name: "pifcxdbwgo", introduction: "vn314mo53p5f6p546mti", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9504,7 +9504,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "iva.shanahan@conn.example", name: "tzyrr855oz", introduction: "iw6blvmqz0ag16bhyucv", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "damon.berge@walker-hilpert.example", name: "qyjwcj970s", introduction: "6u40xk0i105eo6xqpinc", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9524,7 +9524,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "ellsworth_herzog@beatty-watsica.example", name: "9bcb6okjmh", introduction: "xlgt5q4mxtvw09iauury", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "fidel@kiehn.test", name: "bkuhh7uwev", introduction: "4xf5srovqy8c706a6o5v", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9544,7 +9544,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "maren.heller@jones-botsford.test", name: "lls5py6h2c", introduction: "wywqegwp3vg10hh6ov2b", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "kourtney@lynch-moen.example", name: "13ldvngetb", introduction: "067xa6enuzf5lv3nv7d2", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9564,7 +9564,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "filiberto.carter@gerlach.example", name: "gjggue3hnl", introduction: "0q5ls9aosrtjjiov1y65", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "roberto_schinner@medhurst.test", name: "2pwqnrkuk1", introduction: "cxj3h4qmg72cp0ux6k5i", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9584,7 +9584,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "dan_denesik@kautzer-hickle.example", name: "a1ogowjllo", introduction: "x4v3snx79pj0y6tsqsu1", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "eldridge_hoeger@bogisich.test", name: "vq73lxy5ar", introduction: "fdsl3gtmx3f2hzr3nwi1", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9604,7 +9604,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "rosalind@powlowski-wyman.test", name: "uwio3zg556", introduction: "j6nnheo5qx5cumdjfggn", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "rolland_grant@cruickshank.example", name: "bfaogfpp20", introduction: "9i9cxj30k72fj9fl60u3", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9624,7 +9624,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "parker@tromp.test", name: "9c5hnd9k06", introduction: "sooptw6y0rxz6c44vpvy", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "josef_grady@blick-dare.example", name: "auejtpal8k", introduction: "gcnlh7cbrzofeje5cwcc", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9644,7 +9644,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "nila.cremin@frami-rutherford.example", name: "58jao42xtu", introduction: "08yhvu6i6p3gn0z640ur", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "scott@stehr-halvorson.example", name: "9fl7y3qqkz", introduction: "8oefbu5v7mqex4prt2fv", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9664,7 +9664,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "benton@hoeger.test", name: "x8fc4bwvah", introduction: "5i22kolkziw008d5rg5e", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "kali.homenick@spencer-batz.test", name: "d83am0qzmo", introduction: "s4lw3kfum1570n3y8b1l", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9684,7 +9684,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "hyman_pagac@kuhic.test", name: "rs2l1urnhu", introduction: "jekxn83fbn4agfzhmf80", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "florencio@ferry.test", name: "5h2pz8awm9", introduction: "tgqs4z3kbrvy76fpyaoj", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9704,7 +9704,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "allyson.yost@kub.example", name: "tdsiq8t4is", introduction: "1pgzsmhausq3xxg6gvrq", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "booker_torp@zboncak.test", name: "v9uju86jmm", introduction: "jfbrshgw4metwu9af233", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9724,7 +9724,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "lane@erdman-jakubowski.test", name: "z58dprsrbo", introduction: "wwpjg3rfw990o7ynpf4r", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "alan@crona.example", name: "bj1g7hlo84", introduction: "7qk2idpeodvqalts7srm", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9744,7 +9744,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "stepanie_mueller@hettinger-simonis.example", name: "5j8t6l97b2", introduction: "yx8gmqzbtphlz0ttw183", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "saul.pfannerstill@lindgren.example", name: "4odtz7hh6r", introduction: "c8y2mgxumm77wvspxilf", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9764,7 +9764,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "berry_stokes@keeling-heaney.example", name: "87wzpv2jm7", introduction: "p09jnrhom7zmbf29kaet", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "robert.torphy@stamm.test", name: "lcmeqis6tm", introduction: "78t2d2x7sir6iyo18qtq", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9784,7 +9784,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "glen_tremblay@wisozk-waelchi.example", name: "poagmf355i", introduction: "95m55wi0nyzd9dnb19h3", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "wilford@mitchell-turner.test", name: "swpankayxz", introduction: "wvpd4rzlcw9sjj004b7c", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9804,7 +9804,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "nathalie@okeefe.test", name: "st1caguc0y", introduction: "k6skcnp63wirp857cs0n", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "patti.sawayn@wiegand.example", name: "ku0yvcrerk", introduction: "ywvc4epin8yyl5jytjkp", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9824,7 +9824,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "kris.willms@mante.test", name: "utsaqdsgyo", introduction: "wba42ommrj2c43g5ki24", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "alica.mann@kunze.example", name: "0z568ol8dx", introduction: "rypz1i2cmt2wplt7csmp", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9844,7 +9844,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "randal_dietrich@hessel-deckow.test", name: "5ibzyuhfre", introduction: "4v93aaytmua4pqkmc5xd", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "eleanora.kunze@mayert.test", name: "0eh8rpavzm", introduction: "z2363eh0drfejwib8wo2", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9864,7 +9864,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "weldon_larkin@yundt-runolfsdottir.example", name: "ubhiox2hgd", introduction: "4hmnqbqndh6vso7votrt", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "sadye_harris@macejkovic.test", name: "rienzdiimu", introduction: "nblc5dulra88f3c274yy", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9884,7 +9884,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "mikel@halvorson.test", name: "hox2oivc7d", introduction: "1rysfs5z00t1euahs9o4", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "numbers@bins.test", name: "ss15g3wubl", introduction: "czob8a4gyq50mbd1c1qh", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9904,7 +9904,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "trent@kautzer.example", name: "darasrmd4e", introduction: "d5dzwukypwg6mow75dxz", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "irvin@mann-prosacco.test", name: "yxv1t2gufb", introduction: "kwm2zsafcjcg6h9anl7v", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9924,7 +9924,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "hyman_ullrich@breitenberg-murray.example", name: "uir3zcsfyp", introduction: "9dqryz193asvz4ou4p50", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "chante_cummerata@dickinson.test", name: "sndzqala68", introduction: "styjcx7m0v6v66wr68yd", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9944,7 +9944,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "barbie@buckridge.test", name: "wk8jy3oke3", introduction: "k116n91mb5hqy4gvukgm", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "tamekia_paucek@goodwin.example", name: "ba11z9rcvm", introduction: "5j5ib5zzk8f22gx8y65h", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9964,7 +9964,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "rikki@runolfsson-erdman.test", name: "ve0x90j210", introduction: "sjnjk5vnmuzwqngix6i7", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "byron.sawayn@kutch.example", name: "k6cdzl2iv9", introduction: "7dqtyd5d9ldz3r8vpswd", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -9984,7 +9984,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "jordan@halvorson.test", name: "xxbgf9scm5", introduction: "y427ibtunyrn6tntzyw1", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "alva@wiegand.test", name: "2k2yarv7r0", introduction: "mmiy8zafvhdq6gtdv10h", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10004,7 +10004,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "carmelo@stamm.example", name: "dsr50gm8xb", introduction: "61uzr4w6l7tqjexilqcb", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "jaime.weimann@wunsch.example", name: "dh4k43d0fn", introduction: "7lrfejey58w737izop34", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10024,7 +10024,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "raymond@beer.test", name: "bj55fivhju", introduction: "6i84u9nxfo60hunibgzt", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "oren.herzog@gutmann.test", name: "j70alcc769", introduction: "beo8bebsm8jh5e0crcgd", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10044,7 +10044,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "arnulfo@quitzon-bosco.test", name: "p6fe1orf2i", introduction: "0xqcm1f6l2bz8k4pppwm", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "raina_emmerich@sanford-krajcik.example", name: "rsre6gyubt", introduction: "f4orr5i1sgseomjatvao", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10064,7 +10064,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "echo.kohler@kuhn.example", name: "dtfvh0dlwy", introduction: "ga42xkxlm069j922wlcj", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "marlen.price@kulas.test", name: "ya7ela523u", introduction: "vymc4zkfuuivkjqo894j", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10084,7 +10084,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "johnnie_schulist@cronin-reinger.example", name: "hmrveyocul", introduction: "45uu1cq2qzbq7u9dae7a", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "antone@kreiger.example", name: "inqqbtejp6", introduction: "njjhtp8kpc579kgalp8j", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10104,7 +10104,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "trudy_greenholt@olson.test", name: "153tvudekz", introduction: "2h4loh9uo9gf2yq7vfib", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "len.johns@reinger.example", name: "mvw7vf3xth", introduction: "gss08wduqpv0lzi5yrom", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10124,7 +10124,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "arnulfo@monahan.test", name: "ffbud8frfh", introduction: "36kyrulknq729pdyfttr", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "debora.tremblay@heathcote-tremblay.test", name: "xlft6gxzjp", introduction: "t1vozncc8unr52jn85ky", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10144,7 +10144,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "donna@hills-haag.test", name: "rdpxxg4bvo", introduction: "tzy6k655stht1czl8nzg", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "marni@graham.example", name: "lt0xcl3fd1", introduction: "ow3m83sknccr4jdyalsy", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10164,7 +10164,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "mignon.streich@lynch.example", name: "ljzg5oa5w3", introduction: "3d1iwutu12ssr4k53uy2", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "mickey.bernhard@jaskolski-miller.example", name: "3gax4youem", introduction: "fkriaym8rniitdxs46fv", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10184,7 +10184,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "rickie@denesik-rowe.test", name: "5kxtyib0y5", introduction: "bkrrtv5s2hztzmy90wsx", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "octavio_goodwin@quitzon.example", name: "wj78ezqor1", introduction: "n41561z1jazd8p5zqz5e", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10204,7 +10204,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "gertha.brakus@olson-hudson.example", name: "hpvn42a4wk", introduction: "926mju1jsjt4c0vr31bl", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "elayne@maggio-rutherford.example", name: "2qu6v7e3kl", introduction: "530rffvpyshvefbxmie9", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10224,7 +10224,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "xochitl@reinger.example", name: "std7rpt3f6", introduction: "f1d1ksbokv30251sgxd2", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "brinda@runte.test", name: "l1d0ftavdb", introduction: "c9n50rzqe44dqxhkjjvv", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10244,7 +10244,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "donovan@rutherford.example", name: "jvq93qcevc", introduction: "97ly5p7aff9exv3l06uq", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "kiley_osinski@ferry.test", name: "98k3d5tdm2", introduction: "lvabkpz0km8wzxd14r57", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10264,7 +10264,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "zachery.ryan@simonis.example", name: "gfed3nvyph", introduction: "wgr660p2ev5gscrqzjc9", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "rebeca@langworth.test", name: "txhjt69i2s", introduction: "dmm5d9o2cyoiqlyedtpt", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10284,7 +10284,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "germaine@doyle-dare.test", name: "oyzlpgaq1q", introduction: "yps1a2879jfqg688bm43", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "lanie@hackett.test", name: "qmfz8lsbs9", introduction: "a8sq8jwc2zb5e1sndt24", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10304,7 +10304,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "rey@bergnaum.test", name: "rk3s0fdhbg", introduction: "oq2rnetqzsjip3h637n1", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "lonny.dickens@sipes-ernser.test", name: "zz9ue2d4b3", introduction: "m7htkp5ghnoblhh4umpb", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10324,7 +10324,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "jonnie@keeling-anderson.example", name: "iyiqstlae6", introduction: "pm2l61697ot9bx3c3t6f", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "gay_armstrong@turner.example", name: "do9g4s7z7j", introduction: "r82zeoisnrc0k2vc7j5q", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10344,7 +10344,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "setsuko.beahan@feest-casper.example", name: "4eq4jrwqc0", introduction: "pw7yhws7jtxip5tn291m", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "jeanetta.bergnaum@doyle-schroeder.example", name: "qb1varpvd8", introduction: "ti4vl2n6b3eg5xynsmzm", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10364,7 +10364,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "carmine@sipes-beier.example", name: "ihfpcn8mkm", introduction: "666dl48xu16g0wwfqadg", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "glinda_pacocha@kuvalis-kovacek.example", name: "imdkglswyq", introduction: "hc7jz7ynzbaiup29twsq", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10384,7 +10384,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "chadwick@wisozk.example", name: "sd2tpbny21", introduction: "cp7om86qw2l3wo7j9hcy", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "vernon@olson-armstrong.example", name: "s74hukdf2b", introduction: "9xo4ww2pnx1mda3fgcf9", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10404,7 +10404,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "jan@reilly-kuhic.test", name: "wjg6bfb6wj", introduction: "ekq0ziwl07mvlsorqtok", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "frederick@kunde.test", name: "7ccevxqv74", introduction: "lc7hpowdgj5qd1xdp7v5", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10424,7 +10424,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "bruce.kirlin@hermiston.example", name: "xun8s52dan", introduction: "5j2t2ocvjhw7ug2u3fyb", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "tyisha_marks@murray.example", name: "ragrv971g1", introduction: "xi7u9qhvs4uydy09o2z8", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10444,7 +10444,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "rhett.ritchie@friesen.example", name: "gvs0afujza", introduction: "fgmg5wsj02yz66tkllbt", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "elwood@mosciski.example", name: "yempgo503q", introduction: "038t6g4cl87jtgslstr3", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10464,7 +10464,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "denny.schumm@dibbert.example", name: "6iuwcaht64", introduction: "ksjef6bd5tdh91fkvead", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "isobel_walter@runolfsson-lindgren.example", name: "k7apeoa1ze", introduction: "rszy4eaqfs03xkekur61", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10484,7 +10484,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "patrick.schamberger@hartmann-christiansen.test", name: "bweqb3fg0a", introduction: "vikerrno46l8hbhpia5z", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "eliseo_terry@bartell.test", name: "lm7l4dmyzt", introduction: "miisk990ny0bs55yz6zi", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10504,7 +10504,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "shizuko@berge-mann.test", name: "2yzxnhwmus", introduction: "6jdeub42aeumsdei08kl", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "taina.lockman@huels.test", name: "8jeelpbmpw", introduction: "om5vkus9axqcv366i0fi", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10524,7 +10524,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "columbus@hilll.test", name: "ca4hnim1s2", introduction: "m2pizqbz6ct0xw0ucqmg", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "melodi@corkery.test", name: "6a0j38l1yi", introduction: "wperxg11soorkzys0uz0", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10544,7 +10544,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "barry.dickinson@zboncak.test", name: "2a2ug16o76", introduction: "ogbm2rqeod7le2o8qmik", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "freddy_terry@jacobson.test", name: "stda3u99sj", introduction: "8loud8oiz9y537mucnrp", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10564,7 +10564,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "alden.ritchie@rippin.test", name: "fnkwfe3tl0", introduction: "9lkkm73op1c7nhsv057z", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "arnold_aufderhar@cormier-padberg.test", name: "3kf81tl4j5", introduction: "vlz38kffuh6r24txbex9", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10584,7 +10584,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "eliseo@weimann.test", name: "hdplw0p1eg", introduction: "5hp99nekc9oyl48zqoj7", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "tracy_bauch@abbott.test", name: "zxokfmg80r", introduction: "tflqt1ggigukm4ly6s1q", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10604,7 +10604,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "junko@considine-rowe.test", name: "1qjm6se59v", introduction: "z1o9pr704qdgozw2u0ut", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "shawna.kemmer@williamson.example", name: "zsp84jm2tl", introduction: "j8a1m6hyw34al1gswo39", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10624,7 +10624,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "sanjuanita@greenfelder-schmeler.example", name: "nz6izmsu51", introduction: "9dr8sik7jdf37tiw05yq", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "elina_braun@mohr.example", name: "9zzcc0uwdf", introduction: "hhnocug9pvdo0mr7wzwn", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10644,7 +10644,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "dewey@weissnat.example", name: "4gkyr6mkl6", introduction: "k2lwgoxkoawc0dk849u5", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "tamekia@schmidt.example", name: "7gkg4n8jlt", introduction: "2d4pktgxoex3f8rrd5r1", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10664,7 +10664,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "karl@turcotte-haag.example", name: "4pu8qliumm", introduction: "v900q7cnhr3jy8gt317t", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "sunni@wiza.test", name: "vldx9z6x50", introduction: "nuft841k5scyhoxfjsju", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10684,7 +10684,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "abel_kilback@fahey.test", name: "5hhp3x28zu", introduction: "8uqmqo2tz2n0t680cfbq", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "coralee@nienow-murray.test", name: "m5sh21blcg", introduction: "ref8k94gcun57pxzp5qt", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10704,7 +10704,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "brendon@sanford-lockman.example", name: "nnxhmsoh6w", introduction: "1dd8ebi63zpbglibug9g", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "nikia_wiza@waters.example", name: "jsq0hleqag", introduction: "33vgj2a82co81gox3q25", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10724,7 +10724,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "bobbie_heathcote@corwin-botsford.example", name: "nnsjf465wr", introduction: "thddvrd02zxybc2ym8lr", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "ned_roberts@watsica-braun.example", name: "tbslxzu44e", introduction: "3hx9g0g3ctx0eyqjrp6l", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10744,7 +10744,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "arron@kub.test", name: "hyvsa1khce", introduction: "oq029ivt6i0xhjekkswu", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "glennie@christiansen.example", name: "5k8feqmwhy", introduction: "x83b05mont12rb3ebuyk", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10764,7 +10764,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "fabian@rempel-hackett.example", name: "q22yk9que4", introduction: "umj5td91i480cus6t3t1", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "jeanie@paucek.test", name: "25ua00gnnl", introduction: "2z13d2n0daezfzxvbyue", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10784,7 +10784,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "daine.kuhic@breitenberg.test", name: "n2w9zk8n3f", introduction: "uhxdnlc06sidjejf1039", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "donovan_thiel@osinski.test", name: "lw4xpbqcko", introduction: "2sjb9qpuaa91wgyja222", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10804,7 +10804,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "ladonna.williamson@steuber-bode.test", name: "c69w8gtl8i", introduction: "if6tkxb36nydw1lvr6e8", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "beula.erdman@will.test", name: "kml04cqlhl", introduction: "h6cay2gt12ypawhj5msc", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10824,7 +10824,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "derek@nikolaus.test", name: "jsy9tgwwns", introduction: "jssr5m5k980ux8cnq47n", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "cherry@macgyver.test", name: "30n07zxxk8", introduction: "n5ll6fzsppf99z2idc8p", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10844,7 +10844,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "lauren_boehm@stehr-weissnat.test", name: "7qcnp6r2wp", introduction: "8828foeqcn76oz1d6u7i", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "ulrike.mccullough@wunsch.example", name: "mxv035qxmg", introduction: "4eq617cvmqsb9o3lj86h", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10864,7 +10864,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "glynda@feil.example", name: "prg7evamk1", introduction: "b11nufo429xhp3oif14s", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "tracy.stehr@bradtke.test", name: "bcln6mxkk1", introduction: "qgj2u3u2gpfgw4urq8pd", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10884,7 +10884,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "raul_mitchell@nicolas-cruickshank.test", name: "p1pb1fd9gb", introduction: "9yu4857yiytdrjb79v2r", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "edwardo@haley.test", name: "g5lrl4actv", introduction: "9q4os98n4efcvbgueo4f", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10904,7 +10904,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "genna@bashirian.example", name: "1b34sn1mrz", introduction: "vbjw1oqoe79hydcjyxnn", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "wava@nader.example", name: "yww0fm7kp7", introduction: "1w5y4ggetjnhgld1rx0d", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10924,7 +10924,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "forest.smith@kris.test", name: "iho1l0h8rp", introduction: "gddki6zuvac8y8vcklxz", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "hugo_blanda@wehner.example", name: "0xemrsa0qu", introduction: "a1imktqn0ixzbvt47c18", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10944,7 +10944,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "buster.sporer@stamm.test", name: "lbzmz5msur", introduction: "ba4ca9ly36e9zzwpzyzt", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "zack_hammes@stiedemann-parisian.example", name: "vzf2vkyn55", introduction: "g15h84y8k0zvghwfre6p", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10964,7 +10964,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "tyson_gerlach@pfeffer.test", name: "fcbzom13t9", introduction: "32l52tiuzu2f7mjqnaew", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "stasia.balistreri@beer.test", name: "vsfp9mepyt", introduction: "t285xernbg0j51i2ry92", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -10984,7 +10984,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "solomon@heidenreich-ferry.test", name: "g9660t0xzk", introduction: "mhmbe36dl5nvd949kxp0", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "huong_lakin@kuhn.example", name: "zpidar28p2", introduction: "x0inq2nokfe63yxfe4nx", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -11004,7 +11004,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "asa_mcdermott@harber.example", name: "gn0d993ttj", introduction: "ors5bkdt1aunpmt7irmq", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "tom@mraz-wiza.example", name: "ztpreph7hl", introduction: "uydlklkp8jx456h70rto", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -11024,7 +11024,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "edmond_watsica@steuber-gusikowski.test", name: "evooafum7w", introduction: "qi30zmggqxfjb36lw3m5", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "wilson_gottlieb@senger.test", name: "zx95hq2id2", introduction: "npbvcm3le4qz4jt5la3v", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -11044,7 +11044,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "kieth@armstrong.example", name: "si0w0vqddm", introduction: "hegtzxea9r50jbqpg8xb", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "shelby@grimes-oconner.test", name: "1q23r78gfd", introduction: "g0it87fkk3gqj5c552vh", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -11064,7 +11064,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "lenard.leffler@ondricka-senger.example", name: "vxqp8xrj7a", introduction: "qudl4hd3pzihwohfeq69", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "dorathy@barrows.test", name: "mbv4ho1gbj", introduction: "8bcfjefi5ub7ran5igvy", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -11084,7 +11084,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "sebastian.towne@toy.example", name: "b200ciixg2", introduction: "e5lnzkxavpdecsxcgsf7", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "kimiko.yundt@stehr.test", name: "fw5ndap6nz", introduction: "nivfkpl8ctr1x1fg01u3", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -11104,7 +11104,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "federico.mayer@towne.test", name: "glbs861mtl", introduction: "ztb0zzvoopmmymtunhzg", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "milo_goodwin@nitzsche.example", name: "3ecqwjgnvv", introduction: "xwd5cm8lt7udtyrrxmht", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -11124,7 +11124,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "germaine_mayert@harris.test", name: "7la0zn7tu8", introduction: "kjybsi50it3wsbfzfv08", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "olen.kris@kreiger-cummings.test", name: "d7lp1585oo", introduction: "l90gapfwmclgeifp4hyx", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -11144,7 +11144,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "patrick@hauck-kautzer.example", name: "gum8tpfgkz", introduction: "vdr5pt96zbp2l0ytmhrj", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "irvin.veum@auer-ledner.example", name: "rdb34iqmvh", introduction: "1jm9dudt2r8k744fwvkm", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -11164,7 +11164,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "elliot@keeling.test", name: "q7bihdhaps", introduction: "1g0bh8kufyxzf6781gji", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "king.bins@langworth.test", name: "3w7638digk", introduction: "f93w61xe1rome4w24rxw", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -11184,7 +11184,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "rodrick.walter@moen.test", name: "a0j0fkul0g", introduction: "1gxyrmzg0g3dw1ly4tgq", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "zachary@dicki.example", name: "lyenitlmuy", introduction: "s42f1buspdv8lq6g3fgx", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -11204,7 +11204,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "gaynelle@hilll-blick.test", name: "32fuxo4z3q", introduction: "uq23br6zj7g97dj5t750", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "greg@veum-lebsack.test", name: "0t2msfw3pf", introduction: "ievff5gae8dtzl740ap2", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -11224,7 +11224,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "giuseppe.wilkinson@champlin.test", name: "457jgboib4", introduction: "1k3xxtp4crh27yxfhqvc", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "cedrick.connelly@stroman.example", name: "835xfdbyqm", introduction: "u2gbhdpwdzle0uo76on6", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -11244,7 +11244,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "lavelle.jerde@lind-pfannerstill.test", name: "82qggxdahl", introduction: "yep5gnq1l9cr81euhv8b", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "cleveland_schimmel@reilly.test", name: "zcqwoc3a1d", introduction: "kv8demyuwp86y2lnnw2z", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -11264,7 +11264,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "izola_kuhlman@hirthe.example", name: "g1zvlsjzca", introduction: "2uym4ohxir21ppt97hqa", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "vince_stanton@bahringer.example", name: "frifxio84r", introduction: "3lew27ih4gqa3u8i0ln5", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -11284,7 +11284,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "yuonne.blick@lesch.example", name: "hn5sugm2d6", introduction: "ynke5g7mh5qrb3f1tur0", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "clement@fahey-ondricka.test", name: "qeos1me8ma", introduction: "1oyy7eq6dce8hzulruvz", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -11304,7 +11304,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "marisa@pouros-rosenbaum.test", name: "b48am8vpz9", introduction: "iwmz8o6r3kcpbw2nnafb", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "mariano.bednar@yundt.example", name: "x3lq5puzoa", introduction: "unycet56mhbenpl0afj5", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -11324,7 +11324,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "claudette_erdman@maggio.test", name: "3nwys4pqus", introduction: "179g445tq6m094blhy3f", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "lawrence_bruen@fritsch.example", name: "rxiqrnsw42", introduction: "w7pbxedkfhtxfczfvegz", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -11344,7 +11344,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "sergio@bednar.test", name: "v72au7ml3t", introduction: "w4zrklghem1kjjdm4hlb", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "roderick@kris.example", name: "krh8ujhrkv", introduction: "hvsh9fkj6xzlhy4c4d6f", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -11364,7 +11364,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "margarito@kuhlman-bruen.test", name: "7le3psjpu4", introduction: "2d9v69ye4l3ttsbyq0fs", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "wilfredo.gottlieb@cronin.test", name: "zi3jytlcqn", introduction: "hb4b8zkmu0ewc4knr5f7", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -11384,7 +11384,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "johnny@bauch-carter.example", name: "6qq1kifbkt", introduction: "boimp695a3dhv2yg7bs0", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "walker_goldner@leannon.example", name: "4wbvwksqbd", introduction: "1j5ghbff2d41btmd3fkb", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -11404,7 +11404,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "alethea.welch@larson-block.example", name: "3kpl64n3ii", introduction: "gl6iucht6clln1jvt11w", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "nick@boyle.example", name: "kjoxvtzbw2", introduction: "y0gtogh2pz0ey29v0vus", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -11424,7 +11424,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "michaela@rosenbaum-bins.test", name: "2t7iz3ln52", introduction: "6dpniu7yc96rrt9aq2v5", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "kelsie@brown.test", name: "6g4rxvklm7", introduction: "8xcu0hqaigevv5plqsrc", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `instance_exec'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/callback.rb:12:in `run'[0m
@@ -11440,7 +11440,7 @@ Failures:
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.2.1/lib/factory_bot/strategy_syntax_method_registrar.rb:28:in `block in define_singular_strategy_method'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
-Finished in 2.74 seconds (files took 2.45 seconds to load)
+Finished in 5.04 seconds (files took 4.72 seconds to load)
 [31m199 examples, 197 failures[0m
 
 Failed examples:
