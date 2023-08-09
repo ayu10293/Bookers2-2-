@@ -1,2 +1,10 @@
-<h1>BooksController</h1>
-<p>本の一覧テーブルタグea</p>
+<%= render 'list', books: @books, user: @user %>
+
+<% @books.each do |book| %>
+  <div>
+    <%= image_tag book.get_image %>
+    <p><%= image_tag 'sample-author1.jpg' %></p>
+    <p><%= book.title %></p>
+    <p><%= book.opinion %></p>
+  </div>
+<% end %>
