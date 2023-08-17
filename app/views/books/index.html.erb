@@ -1,10 +1,10 @@
-<%= render 'list', books: @books, user: @user %>
+<%= render 'list', book: @book, user: @user %>
 
 <% @books.each do |book| %>
   <div>
     <%= image_tag book.get_image %>
     <p><%= image_tag 'sample-author1.jpg' %></p>
     <p><%= book.title %></p>
-    <p><%= book.opinion %></p>
+    <p><%= book.body %></p>
   </div>
 <% end %>
