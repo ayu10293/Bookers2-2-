@@ -1,10 +1,11 @@
 <%= render 'list', book: @book, user: @user %>
 
+<h1>Books</h1>
 <% @books.each do |book| %>
   <div>
     <%= image_tag book.get_image %>
-    <p><%= image_tag 'sample-author1.jpg' %></p>
-    <p><%= book.title %></p>
+    <p><%= link_to (image_tag 'sample-author1.jpg'), user_path(book.user.id) %></p>
+    <p><%= link_to book.title, book_path(book.id) %></p>
     <p><%= book.body %></p>
   </div>
 <% end %>
