@@ -4,7 +4,7 @@
   <h3>name</h3><h3><%= user.name %></h3>
   <h3>introduction</h3><h3><%= user.introduction %></h3>
   <% if user == current_user %>
-    <p><%= link_to "プロフィール編集", edit_user_path(user) %></p>
+    <p><%= link_to "プロフィール編集", edit_user_path(current_user) %></p>
   <% end %>
 
 
@@ -13,7 +13,7 @@
 <% if book.errors.any? %>
   <%= book.errors.count %>errors prohibited this obj from being saved:
   <ul>
-    <% book.errors.full_massages.each do |message| %>
+    <% book.errors.full_messages.each do |message| %>
       <li><%= message %></li>
     <% end %>
   </ul>
