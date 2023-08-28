@@ -1,14 +1,28 @@
-<h1>User info</h1>
-<div>
+<div class="col-md-3">
+  <h2>User info</h2>
   <%= image_tag user.get_profile_image(100,100) %>
-  <h3>name</h3><h3><%= user.name %></h3>
-  <h3>introduction</h3><h3><%= user.introduction %></h3>
-  <% if user == current_user %>
-    <p><%= link_to "プロフィール編集", edit_user_path(current_user) %></p>
-  <% end %>
+  <table class="table">
+    <tbody>
+      <tr>
+       <th>name</th><th><%= user.name %></th>
+      </tr>
+      <tr>
+       <th>introduction</th><th><%= user.introduction %></th>
+      </tr>
+    </tbody>
+  </table>
+
+    <% if @user == current_user %>
+    <%= link_to user_path(current_user) do %>
+    <i class="fas fa-user-cog"></i>
+    <% end %>
+    else
+    
 
 
-<h1>New book</h1>
+
+
+<h2>New book</h2>
 
 <% if book.errors.any? %>
   <%= book.errors.count %>errors prohibited this obj from being saved:
@@ -26,3 +40,4 @@
   <%= f.text_area :body %>
   <%= f.submit 'Create Book' %>
 <% end %>
+  </div>
