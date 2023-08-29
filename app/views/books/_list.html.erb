@@ -1,3 +1,5 @@
+
+
 <div class="col-md-3">
   <h2>User info</h2>
   <%= image_tag user.get_profile_image(100,100) %>
@@ -12,13 +14,10 @@
     </tbody>
   </table>
 
-    <% if @user == current_user %>
-    <%= link_to user_path(current_user) do %>
+
+    <%= link_to edit_user_path(user) do %>
     <i class="fas fa-user-cog"></i>
     <% end %>
-    else
-    
-
 
 
 
